@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 980d0df26aaf49c45bfdc2de288db4fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - xylophoneSound: {fileID: 8300000, guid: b74de50820cbc0e44bcfd05e39d3e5e2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
